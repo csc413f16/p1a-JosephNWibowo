@@ -12,7 +12,7 @@ Unit Test Run Successfully:
 It ran smoothly "Process finished with exit code 0"
 Running example unit test...
 
-had trouble at first to push to Git
+had trouble at first to push to Git.
 
 Process finished with exit code 0
 
