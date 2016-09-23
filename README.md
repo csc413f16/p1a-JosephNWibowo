@@ -10,7 +10,7 @@ Process finished with exit code 0
 
 Unit Test Run Successfully:
 It ran smoothly "Process finished with exit code 0"
-Running example unit test...
+Running example unit test..
 
 Process finished with exit code 0
 
