@@ -1,8 +1,19 @@
-Name:
+Name: Joseph Wibowo
 
 Compilation and Run Successful:
+The compilation went successfull on my PC, it had some VT-x being disabled earlier but it works now.
+I tried running it on my laptop but it gave me error, hence im running it on my PC now and it works fine.
+
+Running MainActivity unit tests
+
+Process finished with exit code 0
 
 Unit Test Run Successfully:
+It ran smoothly "Process finished with exit code 0"
+Running example unit test...
+
+Process finished with exit code 0
+
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
